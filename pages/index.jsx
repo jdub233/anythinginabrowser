@@ -6,7 +6,7 @@ const HomePage = () => {
         <>
             <Text mt={100} align={"center"}>Welcome to</Text>
             <Title mb={200} align={"center"}>
-                    How to Put Almost Anything in a Browser lalalala
+                    How to Put Almost Anything in a Browser for lots of fun3
             </Title>
             <PageSwitcher/>
         </>
